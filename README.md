@@ -15,3 +15,4 @@ The generated signal comes to the switching element of the Buck-Boost Converter.
 converters are a type of DC-DC converter that can increase or decrease the output voltage, and these
 converters change the voltage according to the signal with the specific duty cycle sent by the
 processor. Thus, the system reaches the required voltage value for maximum power.
+This project prepare with using Proteus. You can open with Proteus sim files
